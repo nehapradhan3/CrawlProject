@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry path="build/classes" kind="output"/>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/home/neha/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/a55382e12d39db7a06d782ec4171f39d5d6c5369/jsoup-1.8.1-sources.jar" kind="lib" path="/home/neha/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/1eb6690b0c629d7000c77a72df5e822fb974f521/jsoup-1.8.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+</classpath>
